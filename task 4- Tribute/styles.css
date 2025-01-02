@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #4a90e2;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #4a90e2;
+}
+
+.biography, .achievements, .quotes, .photos, .impact {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #4a90e2;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 4px solid #4a90e2;
+    padding-left: 10px;
+}
+
+.photos img {
+    width: 100%;
+    max-width: 300px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
